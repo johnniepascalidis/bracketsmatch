@@ -1,0 +1,10 @@
+Package: bracketmatch
+Type: Package
+Title: See if opening and closes brackets match.
+Version: 0.1.0
+Authors@R:
+Description: See if opening and closes brackets match and a function that makes it easy to get files that need
+  debugging from online.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
